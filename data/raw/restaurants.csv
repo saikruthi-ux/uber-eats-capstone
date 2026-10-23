@@ -1,0 +1,101 @@
+restaurant_id,category,rating,avg_prep_time
+1,Fast Food,3.6,37
+2,Fast Food,3.7,39
+3,Indian,2.9,35
+4,Desserts,4.9,30
+5,Fast Food,4.6,37
+6,Indian,4.2,35
+7,Fast Food,3.7,42
+8,Mexican,3.5,30
+9,Cafe,4.1,44
+10,Fast Food,3.9,43
+11,Chinese,2.7,27
+12,Cafe,3.8,20
+13,Cafe,4.5,32
+14,Fast Food,3.6,31
+15,Desserts,2.6,26
+16,Italian,4.5,14
+17,Desserts,3.0,20
+18,Fast Food,3.1,39
+19,Cafe,2.9,24
+20,Chinese,3.3,36
+21,Cafe,4.4,44
+22,Desserts,3.8,42
+23,Chinese,3.0,29
+24,Indian,4.7,25
+25,Mexican,4.7,43
+26,Cafe,4.7,11
+27,Fast Food,3.1,44
+28,Indian,3.6,37
+29,Mexican,5.0,15
+30,Fast Food,4.4,18
+31,Italian,2.6,29
+32,Fast Food,2.7,10
+33,Chinese,3.7,17
+34,Chinese,4.8,32
+35,Italian,3.8,12
+36,Indian,3.7,13
+37,Mexican,2.8,34
+38,Fast Food,4.1,24
+39,Chinese,4.6,30
+40,Indian,3.5,44
+41,Italian,4.4,23
+42,Desserts,4.9,45
+43,Cafe,3.0,21
+44,Desserts,3.8,26
+45,Desserts,3.2,18
+46,Chinese,4.5,44
+47,Italian,3.9,22
+48,Fast Food,4.1,24
+49,Desserts,4.5,27
+50,Desserts,3.5,42
+51,Mexican,4.8,15
+52,Chinese,3.8,36
+53,Chinese,2.9,32
+54,Fast Food,4.2,36
+55,Cafe,4.5,43
+56,Indian,3.3,23
+57,Mexican,4.6,45
+58,Chinese,4.8,17
+59,Mexican,3.2,44
+60,Chinese,5.0,28
+61,Mexican,2.9,39
+62,Italian,3.0,23
+63,Desserts,3.0,29
+64,Chinese,4.7,34
+65,Mexican,4.1,33
+66,Indian,2.9,23
+67,Italian,3.6,35
+68,Italian,4.0,32
+69,Indian,2.7,31
+70,Mexican,4.7,28
+71,Fast Food,4.5,12
+72,Indian,3.8,28
+73,Mexican,4.9,18
+74,Indian,3.5,37
+75,Indian,5.0,29
+76,Chinese,4.2,16
+77,Mexican,4.1,23
+78,Fast Food,2.9,18
+79,Desserts,4.7,28
+80,Chinese,3.6,23
+81,Indian,2.9,45
+82,Desserts,2.5,26
+83,Cafe,3.9,39
+84,Desserts,3.8,18
+85,Indian,4.3,42
+86,Indian,4.7,34
+87,Mexican,2.7,23
+88,Mexican,4.3,20
+89,Chinese,3.0,44
+90,Fast Food,4.6,23
+91,Chinese,4.5,39
+92,Italian,3.9,13
+93,Indian,4.3,13
+94,Desserts,3.3,37
+95,Cafe,3.7,17
+96,Indian,4.6,11
+97,Indian,3.6,31
+98,Chinese,3.4,25
+99,Cafe,3.7,38
+100,Cafe,4.6,39
