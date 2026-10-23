@@ -120,15 +120,58 @@ def generate_drivers(n_drivers=300):
     return drivers
 
 
-def generate_deliveries(orders, drivers):
-    """Generate delivery records for delivered orders."""
 
-    # Only delivered orders should have completed delivery records
+def generate_deliveries(orders, drivers):
+    """Generate deliveries for delivered orders using realistic factors."""
+
     delivered_orders = orders[
         orders["order_status"] == "Delivered"
     ].copy()
 
     n_deliveries = len(delivered_orders)
+
+    # Assign delivery characteristics first
+    distances = np.round(
+        np.random.uniform(1, 20, n_deliveries), 2
+    )
+
+    weather = np.random.choice(
+        ["Clear", "Rainy", "Cloudy", "Stormy"],
+        n_deliveries,
+        p=[0.5, 0.2, 0.25, 0.05]
+    )
+
+    traffic = np.random.choice(
+        ["Low", "Medium", "High"],
+        n_deliveries,
+        p=[0.3, 0.45, 0.25]
+    )
+
+    # Model delivery time using distance, traffic, weather and noise
+    traffic_delay = pd.Series(traffic).map({
+        "Low": 0,
+        "Medium": 8,
+        "High": 18
+    }).to_numpy()
+
+    weather_delay = pd.Series(weather).map({
+        "Clear": 0,
+        "Cloudy": 3,
+        "Rainy": 8,
+        "Stormy": 15
+    }).to_numpy()
+
+    random_variation = np.random.normal(
+        0, 5, n_deliveries
+    )
+
+    delivery_times = np.maximum(
+        10,
+        np.round(
+            12 + distances * 2 + traffic_delay
+            + weather_delay + random_variation
+        )
+    ).astype(int)
 
     deliveries = pd.DataFrame({
         "delivery_id": range(1, n_deliveries + 1),
@@ -136,31 +179,13 @@ def generate_deliveries(orders, drivers):
         "driver_id": np.random.choice(
             drivers["driver_id"], n_deliveries
         ),
-        "delivery_distance_km": np.round(
-            np.random.uniform(1, 20, n_deliveries), 2
-        ),
-        "delivery_time_minutes": np.maximum(
-            10,
-            np.round(
-                np.random.normal(35, 12, n_deliveries)
-            ).astype(int)
-        ),
-        "weather": np.random.choice(
-            ["Clear", "Rainy", "Cloudy", "Stormy"],
-            n_deliveries,
-            p=[0.5, 0.2, 0.25, 0.05]
-        ),
-        "traffic_condition": np.random.choice(
-            ["Low", "Medium", "High"],
-            n_deliveries,
-            p=[0.3, 0.45, 0.25]
-        ),
-        "tip_amount": np.round(
-            np.random.choice(
-                [0, 10, 20, 30, 50, 75, 100],
-                n_deliveries
-            ),
-            2
+        "delivery_distance_km": distances,
+        "delivery_time_minutes": delivery_times,
+        "weather": weather,
+        "traffic_condition": traffic,
+        "tip_amount": np.random.choice(
+            [0, 10, 20, 30, 50, 75, 100],
+            n_deliveries
         )
     })
 
@@ -169,47 +194,69 @@ def generate_deliveries(orders, drivers):
 
 
 
+
 def generate_reviews(orders):
-    """Generate synthetic customer reviews for delivered orders."""
+    """Generate reviews with text broadly consistent with ratings."""
 
     delivered_orders = orders[
         orders["order_status"] == "Delivered"
     ]
 
-    review_texts = [
-        "Great food and fast delivery!",
-        "Food was good, but delivery was late.",
-        "Excellent experience. Will order again.",
-        "The food arrived cold.",
-        "Average experience, nothing special.",
-        "Amazing taste and packaging.",
-        "Order was missing an item.",
-        "Very quick delivery and friendly service.",
-        "Food quality could be better.",
-        "Highly satisfied with the service."
-    ]
-
-    # Not every delivered order receives a review
+    # A subset of delivered orders receives reviews
     reviewed_orders = delivered_orders.sample(
         frac=0.65, random_state=42
     )
 
+    review_texts_by_rating = {
+        1: [
+            "Terrible experience. The food was very poor.",
+            "Very late delivery and disappointing food.",
+            "The order arrived cold and incomplete."
+        ],
+        2: [
+            "Below average experience.",
+            "Delivery was late and food quality was poor.",
+            "Could have been much better."
+        ],
+        3: [
+            "Average experience, nothing special.",
+            "Food was okay, but there is room for improvement.",
+            "Neither great nor bad."
+        ],
+        4: [
+            "Good food and a pleasant experience.",
+            "Delivery was good and the food was tasty.",
+            "Satisfied with the overall service."
+        ],
+        5: [
+            "Excellent experience. Will order again!",
+            "Amazing food and great service.",
+            "Fast delivery and delicious food."
+        ]
+    }
+
     n_reviews = len(reviewed_orders)
+
+    ratings = np.random.choice(
+        [1, 2, 3, 4, 5],
+        n_reviews,
+        p=[0.05, 0.10, 0.15, 0.35, 0.35]
+    )
+
+    review_texts = [
+        np.random.choice(review_texts_by_rating[rating])
+        for rating in ratings
+    ]
 
     reviews = pd.DataFrame({
         "review_id": range(1, n_reviews + 1),
         "order_id": reviewed_orders["order_id"].to_numpy(),
-        "review_text": np.random.choice(
-            review_texts, n_reviews
-        ),
-        "rating": np.random.choice(
-            [1, 2, 3, 4, 5],
-            n_reviews,
-            p=[0.05, 0.10, 0.15, 0.35, 0.35]
-        )
+        "review_text": review_texts,
+        "rating": ratings
     })
 
     return reviews
+
 
 
 def generate_payments(orders):
