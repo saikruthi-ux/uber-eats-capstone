@@ -1,0 +1,3 @@
+entity,selected_k,kmeans_silhouette,dbscan_cluster_count,dbscan_noise_percentage,dbscan_silhouette_excluding_noise,pca_variance_explained,number_of_model_features,records
+customer,6,0.26161855176365356,5,9.0,0.29780786538977266,0.3852083058312416,13,1000
+restaurant,7,0.3050790412942927,6,19.0,0.33299365013124094,0.2580157984690077,14,100
