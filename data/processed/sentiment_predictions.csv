@@ -1,0 +1,1872 @@
+review_id,order_id,review_text,rating,sentiment,model_sentiment,vader_sentiment,vader_compound
+1,818,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+2,2508,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+3,4134,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+4,2785,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+5,1871,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+6,2146,Amazing food and great service.,5,positive,positive,positive,0.836
+7,1933,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+8,3930,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+9,1611,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+10,3119,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+11,4809,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+12,4737,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+13,645,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+14,3047,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+15,1409,Could have been much better.,2,negative,negative,positive,0.4404
+16,1341,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+17,866,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+18,423,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+19,578,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+20,1434,Could have been much better.,2,negative,negative,positive,0.4404
+21,1624,Amazing food and great service.,5,positive,positive,positive,0.836
+22,2097,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+23,2170,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+24,4131,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+25,3085,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+26,2631,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+27,3463,Could have been much better.,2,negative,negative,positive,0.4404
+28,1724,Below average experience.,2,negative,negative,neutral,0.0
+29,3028,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+30,3320,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+31,2463,Amazing food and great service.,5,positive,positive,positive,0.836
+32,2716,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+33,4127,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+34,4458,Amazing food and great service.,5,positive,positive,positive,0.836
+35,3384,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+36,1461,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+37,4009,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+38,213,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+39,3967,Below average experience.,2,negative,negative,neutral,0.0
+40,4804,Below average experience.,2,negative,negative,neutral,0.0
+41,4640,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+42,2543,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+43,2264,Amazing food and great service.,5,positive,positive,positive,0.836
+44,4124,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+45,2416,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+46,3512,Could have been much better.,2,negative,negative,positive,0.4404
+47,3123,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+48,527,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+49,4687,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+50,2078,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+51,3209,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+52,4634,Amazing food and great service.,5,positive,positive,positive,0.836
+53,2755,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+54,4714,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+55,4836,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+56,1557,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+57,977,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+58,4287,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+59,2403,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+60,1715,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+61,835,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+62,4470,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+63,2360,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+64,1317,Could have been much better.,2,negative,negative,positive,0.4404
+65,1277,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+66,293,Amazing food and great service.,5,positive,positive,positive,0.836
+67,3877,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+68,4208,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+69,3317,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+70,4921,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+71,1359,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+72,348,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+73,3720,Amazing food and great service.,5,positive,positive,positive,0.836
+74,4973,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+75,2933,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+76,546,Amazing food and great service.,5,positive,positive,positive,0.836
+77,3625,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+78,2984,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+79,1302,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+80,760,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+81,4822,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+82,1703,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+83,2549,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+84,755,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+85,4996,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+86,4771,Amazing food and great service.,5,positive,positive,positive,0.836
+87,321,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+88,1253,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+89,3990,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+90,569,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+91,1314,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+92,2538,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+93,2966,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+94,1208,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+95,4205,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+96,3327,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+97,963,Amazing food and great service.,5,positive,positive,positive,0.836
+98,2063,Could have been much better.,2,negative,negative,positive,0.4404
+99,3012,Could have been much better.,2,negative,negative,positive,0.4404
+100,2955,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+101,1074,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+102,3204,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+103,4504,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+104,3298,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+105,4084,Amazing food and great service.,5,positive,positive,positive,0.836
+106,2114,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+107,4525,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+108,46,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+109,704,Could have been much better.,2,negative,negative,positive,0.4404
+110,95,Amazing food and great service.,5,positive,positive,positive,0.836
+111,2713,Amazing food and great service.,5,positive,positive,positive,0.836
+112,3821,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+113,345,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+114,2959,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+115,1608,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+116,2323,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+117,4473,Amazing food and great service.,5,positive,positive,positive,0.836
+118,4274,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+119,1711,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+120,1330,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+121,4612,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+122,249,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+123,1228,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+124,2746,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+125,4751,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+126,3100,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+127,4503,Could have been much better.,2,negative,negative,positive,0.4404
+128,2506,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+129,2983,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+130,2548,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+131,3980,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+132,3425,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+133,1376,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+134,1058,Could have been much better.,2,negative,negative,positive,0.4404
+135,4817,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+136,4334,Amazing food and great service.,5,positive,positive,positive,0.836
+137,42,Could have been much better.,2,negative,negative,positive,0.4404
+138,1412,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+139,529,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+140,2369,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+141,2798,Below average experience.,2,negative,negative,neutral,0.0
+142,1795,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+143,4934,Amazing food and great service.,5,positive,positive,positive,0.836
+144,3799,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+145,2585,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+146,803,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+147,2618,Amazing food and great service.,5,positive,positive,positive,0.836
+148,2552,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+149,2899,Below average experience.,2,negative,negative,neutral,0.0
+150,3096,Amazing food and great service.,5,positive,positive,positive,0.836
+151,1439,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+152,1202,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+153,3428,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+154,107,Could have been much better.,2,negative,negative,positive,0.4404
+155,3644,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+156,1643,Could have been much better.,2,negative,negative,positive,0.4404
+157,88,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+158,4042,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+159,2761,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+160,4902,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+161,63,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+162,3152,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+163,1182,Could have been much better.,2,negative,negative,positive,0.4404
+164,750,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+165,369,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+166,122,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+167,1447,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+168,3538,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+169,2286,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+170,3092,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+171,563,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+172,717,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+173,692,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+174,2977,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+175,4643,Could have been much better.,2,negative,negative,positive,0.4404
+176,947,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+177,720,Could have been much better.,2,negative,negative,positive,0.4404
+178,3767,Amazing food and great service.,5,positive,positive,positive,0.836
+179,2473,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+180,1750,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+181,2212,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+182,4541,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+183,2335,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+184,1815,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+185,4864,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+186,721,Below average experience.,2,negative,negative,neutral,0.0
+187,4763,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+188,1563,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+189,4519,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+190,61,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+191,2564,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+192,1464,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+193,3624,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+194,2047,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+195,4328,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+196,2458,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+197,1261,Amazing food and great service.,5,positive,positive,positive,0.836
+198,735,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+199,1040,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+200,623,Amazing food and great service.,5,positive,positive,positive,0.836
+201,147,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+202,558,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+203,316,Could have been much better.,2,negative,negative,positive,0.4404
+204,3473,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+205,1471,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+206,4734,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+207,2550,Could have been much better.,2,negative,negative,positive,0.4404
+208,3070,Amazing food and great service.,5,positive,positive,positive,0.836
+209,2817,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+210,1757,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+211,4663,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+212,4024,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+213,724,Amazing food and great service.,5,positive,positive,positive,0.836
+214,565,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+215,2981,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+216,992,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+217,2050,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+218,1915,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+219,1050,Below average experience.,2,negative,negative,neutral,0.0
+220,2189,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+221,2466,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+222,3859,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+223,1538,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+224,4409,Amazing food and great service.,5,positive,positive,positive,0.836
+225,3823,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+226,4790,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+227,1423,Amazing food and great service.,5,positive,positive,positive,0.836
+228,4048,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+229,2307,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+230,2388,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+231,3054,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+232,4786,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+233,4077,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+234,4585,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+235,3251,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+236,2598,Amazing food and great service.,5,positive,positive,positive,0.836
+237,1508,Amazing food and great service.,5,positive,positive,positive,0.836
+238,879,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+239,100,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+240,2447,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+241,3515,Below average experience.,2,negative,negative,neutral,0.0
+242,917,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+243,3862,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+244,80,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+245,2153,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+246,2819,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+247,948,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+248,2125,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+249,3132,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+250,796,Amazing food and great service.,5,positive,positive,positive,0.836
+251,163,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+252,1902,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+253,1638,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+254,1054,Below average experience.,2,negative,negative,neutral,0.0
+255,876,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+256,2162,Amazing food and great service.,5,positive,positive,positive,0.836
+257,3407,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+258,2490,Could have been much better.,2,negative,negative,positive,0.4404
+259,1836,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+260,4250,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+261,3502,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+262,3684,Could have been much better.,2,negative,negative,positive,0.4404
+263,4317,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+264,2495,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+265,739,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+266,2943,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+267,1181,Amazing food and great service.,5,positive,positive,positive,0.836
+268,678,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+269,3618,Amazing food and great service.,5,positive,positive,positive,0.836
+270,2805,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+271,1890,Below average experience.,2,negative,negative,neutral,0.0
+272,3553,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+273,1777,Amazing food and great service.,5,positive,positive,positive,0.836
+274,4607,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+275,4291,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+276,2373,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+277,4797,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+278,407,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+279,2068,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+280,1443,Amazing food and great service.,5,positive,positive,positive,0.836
+281,3382,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+282,2118,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+283,3578,Could have been much better.,2,negative,negative,positive,0.4404
+284,1878,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+285,2452,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+286,3055,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+287,1932,Amazing food and great service.,5,positive,positive,positive,0.836
+288,4361,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+289,836,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+290,1430,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+291,3024,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+292,1352,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+293,1809,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+294,4885,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+295,4380,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+296,3614,Amazing food and great service.,5,positive,positive,positive,0.836
+297,2566,Amazing food and great service.,5,positive,positive,positive,0.836
+298,3783,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+299,3156,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+300,4954,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+301,40,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+302,3808,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+303,3263,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+304,4943,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+305,1601,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+306,2769,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+307,2425,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+308,336,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+309,308,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+310,2045,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+311,60,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+312,134,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+313,3634,Below average experience.,2,negative,negative,neutral,0.0
+314,1269,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+315,502,Amazing food and great service.,5,positive,positive,positive,0.836
+316,2269,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+317,2780,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+318,1686,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+319,2216,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+320,4046,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+321,4309,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+322,4089,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+323,260,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+324,4214,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+325,888,Amazing food and great service.,5,positive,positive,positive,0.836
+326,3861,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+327,4560,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+328,3470,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+329,1606,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+330,240,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+331,3193,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+332,1205,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+333,4834,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+334,4572,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+335,4081,Amazing food and great service.,5,positive,positive,positive,0.836
+336,3014,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+337,2377,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+338,3448,Amazing food and great service.,5,positive,positive,positive,0.836
+339,2394,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+340,2019,Could have been much better.,2,negative,negative,positive,0.4404
+341,388,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+342,3655,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+343,2093,Amazing food and great service.,5,positive,positive,positive,0.836
+344,3963,Amazing food and great service.,5,positive,positive,positive,0.836
+345,314,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+346,3404,Amazing food and great service.,5,positive,positive,positive,0.836
+347,3878,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+348,2055,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+349,3181,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+350,4938,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+351,3233,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+352,3855,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+353,553,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+354,270,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+355,1132,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+356,484,Could have been much better.,2,negative,negative,positive,0.4404
+357,482,Below average experience.,2,negative,negative,neutral,0.0
+358,770,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+359,4823,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+360,2356,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+361,2710,Amazing food and great service.,5,positive,positive,positive,0.836
+362,2937,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+363,4392,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+364,846,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+365,2925,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+366,4681,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+367,452,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+368,3121,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+369,247,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+370,845,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+371,4025,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+372,4511,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+373,4337,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+374,448,Could have been much better.,2,negative,negative,positive,0.4404
+375,927,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+376,4432,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+377,2333,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+378,305,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+379,4981,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+380,3424,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+381,1386,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+382,520,Amazing food and great service.,5,positive,positive,positive,0.836
+383,4314,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+384,930,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+385,4707,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+386,3737,Could have been much better.,2,negative,negative,positive,0.4404
+387,241,Amazing food and great service.,5,positive,positive,positive,0.836
+388,1620,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+389,4913,Amazing food and great service.,5,positive,positive,positive,0.836
+390,2232,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+391,644,Below average experience.,2,negative,negative,neutral,0.0
+392,4295,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+393,4972,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+394,1776,Below average experience.,2,negative,negative,neutral,0.0
+395,2067,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+396,1195,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+397,1583,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+398,2747,Amazing food and great service.,5,positive,positive,positive,0.836
+399,2113,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+400,1762,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+401,1834,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+402,3398,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+403,3087,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+404,368,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+405,2157,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+406,3551,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+407,3307,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+408,642,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+409,3314,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+410,1226,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+411,763,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+412,3416,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+413,1607,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+414,4372,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+415,1278,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+416,716,Could have been much better.,2,negative,negative,positive,0.4404
+417,177,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+418,1309,Below average experience.,2,negative,negative,neutral,0.0
+419,2171,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+420,785,Below average experience.,2,negative,negative,neutral,0.0
+421,752,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+422,581,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+423,1812,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+424,915,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+425,1883,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+426,725,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+427,4223,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+428,3872,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+429,1736,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+430,2773,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+431,4060,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+432,2375,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+433,354,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+434,3259,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+435,1139,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+436,515,Amazing food and great service.,5,positive,positive,positive,0.836
+437,433,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+438,4003,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+439,1783,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+440,4047,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+441,3602,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+442,3003,Could have been much better.,2,negative,negative,positive,0.4404
+443,926,Amazing food and great service.,5,positive,positive,positive,0.836
+444,1290,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+445,156,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+446,2115,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+447,3744,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+448,1438,Amazing food and great service.,5,positive,positive,positive,0.836
+449,4258,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+450,1588,Could have been much better.,2,negative,negative,positive,0.4404
+451,1180,Could have been much better.,2,negative,negative,positive,0.4404
+452,4773,Amazing food and great service.,5,positive,positive,positive,0.836
+453,4327,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+454,2198,Could have been much better.,2,negative,negative,positive,0.4404
+455,4694,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+456,171,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+457,3568,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+458,1481,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+459,800,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+460,2991,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+461,4141,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+462,904,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+463,4170,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+464,987,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+465,4449,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+466,3651,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+467,395,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+468,405,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+469,2210,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+470,442,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+471,181,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+472,71,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+473,2796,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+474,1071,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+475,1658,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+476,978,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+477,3007,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+478,3944,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+479,2449,Amazing food and great service.,5,positive,positive,positive,0.836
+480,4726,Amazing food and great service.,5,positive,positive,positive,0.836
+481,3637,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+482,2260,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+483,4284,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+484,4851,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+485,805,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+486,1769,Could have been much better.,2,negative,negative,positive,0.4404
+487,4999,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+488,2756,Below average experience.,2,negative,negative,neutral,0.0
+489,897,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+490,2438,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+491,4437,Amazing food and great service.,5,positive,positive,positive,0.836
+492,862,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+493,2505,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+494,2370,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+495,2315,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+496,372,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+497,3511,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+498,4051,Amazing food and great service.,5,positive,positive,positive,0.836
+499,2445,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+500,737,Amazing food and great service.,5,positive,positive,positive,0.836
+501,1307,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+502,551,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+503,1218,Amazing food and great service.,5,positive,positive,positive,0.836
+504,3810,Amazing food and great service.,5,positive,positive,positive,0.836
+505,4475,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+506,1394,Amazing food and great service.,5,positive,positive,positive,0.836
+507,3494,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+508,4756,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+509,1882,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+510,381,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+511,3177,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+512,4007,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+513,2529,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+514,883,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+515,3638,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+516,966,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+517,4406,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+518,984,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+519,2613,Amazing food and great service.,5,positive,positive,positive,0.836
+520,3093,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+521,4710,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+522,3478,Amazing food and great service.,5,positive,positive,positive,0.836
+523,1396,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+524,1350,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+525,1426,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+526,4850,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+527,631,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+528,2499,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+529,461,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+530,1727,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+531,4004,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+532,4890,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+533,1366,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+534,4353,Could have been much better.,2,negative,negative,positive,0.4404
+535,1360,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+536,2339,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+537,4543,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+538,4520,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+539,3888,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+540,794,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+541,802,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+542,3719,Amazing food and great service.,5,positive,positive,positive,0.836
+543,2510,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+544,665,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+545,4492,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+546,1860,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+547,1123,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+548,1131,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+549,2177,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+550,4095,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+551,1007,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+552,2138,Amazing food and great service.,5,positive,positive,positive,0.836
+553,5000,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+554,3947,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+555,3830,Amazing food and great service.,5,positive,positive,positive,0.836
+556,2372,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+557,944,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+558,1969,Amazing food and great service.,5,positive,positive,positive,0.836
+559,2802,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+560,1049,Amazing food and great service.,5,positive,positive,positive,0.836
+561,4049,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+562,4571,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+563,4977,Amazing food and great service.,5,positive,positive,positive,0.836
+564,4887,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+565,1484,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+566,3346,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+567,3547,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+568,4252,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+569,759,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+570,3781,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+571,419,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+572,1398,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+573,179,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+574,4926,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+575,298,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+576,3330,Below average experience.,2,negative,negative,neutral,0.0
+577,443,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+578,3133,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+579,2454,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+580,1642,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+581,4514,Below average experience.,2,negative,negative,neutral,0.0
+582,1155,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+583,4182,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+584,3904,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+585,1911,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+586,1280,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+587,1793,Amazing food and great service.,5,positive,positive,positive,0.836
+588,1913,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+589,3974,Amazing food and great service.,5,positive,positive,positive,0.836
+590,4015,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+591,801,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+592,1635,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+593,275,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+594,4793,Amazing food and great service.,5,positive,positive,positive,0.836
+595,4104,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+596,2729,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+597,1179,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+598,421,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+599,1120,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+600,1639,Below average experience.,2,negative,negative,neutral,0.0
+601,3134,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+602,161,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+603,554,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+604,4928,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+605,3923,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+606,4410,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+607,3453,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+608,463,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+609,4696,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+610,2603,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+611,4495,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+612,4898,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+613,322,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+614,4423,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+615,1589,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+616,4307,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+617,2268,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+618,1862,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+619,838,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+620,4659,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+621,4070,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+622,3262,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+623,3768,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+624,3176,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+625,4877,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+626,2709,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+627,3838,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+628,1171,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+629,3941,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+630,3501,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+631,4715,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+632,434,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+633,4870,Below average experience.,2,negative,negative,neutral,0.0
+634,3165,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+635,3378,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+636,3728,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+637,609,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+638,1803,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+639,4193,Amazing food and great service.,5,positive,positive,positive,0.836
+640,3815,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+641,2906,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+642,4378,Amazing food and great service.,5,positive,positive,positive,0.836
+643,4037,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+644,2714,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+645,1285,Below average experience.,2,negative,negative,neutral,0.0
+646,778,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+647,1082,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+648,1910,Amazing food and great service.,5,positive,positive,positive,0.836
+649,1610,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+650,4978,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+651,2341,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+652,4166,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+653,4266,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+654,953,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+655,2816,Could have been much better.,2,negative,negative,positive,0.4404
+656,465,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+657,4017,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+658,3397,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+659,621,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+660,366,Amazing food and great service.,5,positive,positive,positive,0.836
+661,2803,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+662,2221,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+663,1774,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+664,2786,Amazing food and great service.,5,positive,positive,positive,0.836
+665,2800,Amazing food and great service.,5,positive,positive,positive,0.836
+666,81,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+667,3633,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+668,3802,Amazing food and great service.,5,positive,positive,positive,0.836
+669,972,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+670,401,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+671,2734,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+672,3257,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+673,1770,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+674,3996,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+675,2987,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+676,2515,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+677,3573,Amazing food and great service.,5,positive,positive,positive,0.836
+678,740,Could have been much better.,2,negative,negative,positive,0.4404
+679,99,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+680,4692,Below average experience.,2,negative,negative,neutral,0.0
+681,2327,Could have been much better.,2,negative,negative,positive,0.4404
+682,4085,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+683,1999,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+684,1844,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+685,1313,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+686,1090,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+687,3835,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+688,1865,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+689,3075,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+690,1737,Amazing food and great service.,5,positive,positive,positive,0.836
+691,1569,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+692,2104,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+693,2915,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+694,3250,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+695,498,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+696,1437,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+697,1830,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+698,2555,Amazing food and great service.,5,positive,positive,positive,0.836
+699,2607,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+700,3365,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+701,1346,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+702,1043,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+703,4665,Below average experience.,2,negative,negative,neutral,0.0
+704,4953,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+705,4526,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+706,764,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+707,882,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+708,111,Could have been much better.,2,negative,negative,positive,0.4404
+709,3011,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+710,1130,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+711,905,Could have been much better.,2,negative,negative,positive,0.4404
+712,4071,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+713,1465,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+714,4496,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+715,1460,Amazing food and great service.,5,positive,positive,positive,0.836
+716,2427,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+717,1861,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+718,2615,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+719,1104,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+720,4365,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+721,2384,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+722,1929,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+723,842,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+724,3060,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+725,1710,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+726,4283,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+727,2043,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+728,762,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+729,2897,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+730,3581,Amazing food and great service.,5,positive,positive,positive,0.836
+731,4416,Amazing food and great service.,5,positive,positive,positive,0.836
+732,302,Amazing food and great service.,5,positive,positive,positive,0.836
+733,83,Could have been much better.,2,negative,negative,positive,0.4404
+734,1072,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+735,922,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+736,2712,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+737,68,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+738,2338,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+739,2222,Amazing food and great service.,5,positive,positive,positive,0.836
+740,2994,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+741,67,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+742,1242,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+743,1823,Amazing food and great service.,5,positive,positive,positive,0.836
+744,2698,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+745,3762,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+746,1808,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+747,1106,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+748,2039,Could have been much better.,2,negative,negative,positive,0.4404
+749,3527,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+750,2025,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+751,32,Amazing food and great service.,5,positive,positive,positive,0.836
+752,2344,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+753,4557,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+754,492,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+755,3591,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+756,3791,Could have been much better.,2,negative,negative,positive,0.4404
+757,3565,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+758,635,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+759,1928,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+760,2437,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+761,4939,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+762,4716,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+763,2923,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+764,2069,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+765,4385,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+766,528,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+767,4445,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+768,424,Amazing food and great service.,5,positive,positive,positive,0.836
+769,1858,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+770,1008,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+771,1552,Below average experience.,2,negative,negative,neutral,0.0
+772,3333,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+773,2173,Could have been much better.,2,negative,negative,positive,0.4404
+774,2901,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+775,617,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+776,4570,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+777,4374,Amazing food and great service.,5,positive,positive,positive,0.836
+778,615,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+779,2866,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+780,1942,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+781,1895,Amazing food and great service.,5,positive,positive,positive,0.836
+782,2314,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+783,3679,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+784,1143,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+785,3031,Amazing food and great service.,5,positive,positive,positive,0.836
+786,3415,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+787,2504,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+788,4120,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+789,4646,Amazing food and great service.,5,positive,positive,positive,0.836
+790,3540,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+791,4354,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+792,2875,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+793,1585,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+794,937,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+795,1495,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+796,2398,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+797,4755,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+798,2527,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+799,1351,Could have been much better.,2,negative,negative,positive,0.4404
+800,4483,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+801,3242,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+802,1357,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+803,3126,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+804,3269,Below average experience.,2,negative,negative,neutral,0.0
+805,4591,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+806,1237,Amazing food and great service.,5,positive,positive,positive,0.836
+807,1389,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+808,4608,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+809,2882,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+810,212,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+811,2017,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+812,1963,Amazing food and great service.,5,positive,positive,positive,0.836
+813,1083,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+814,712,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+815,1805,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+816,2051,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+817,2521,Amazing food and great service.,5,positive,positive,positive,0.836
+818,865,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+819,1546,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+820,570,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+821,602,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+822,3798,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+823,1343,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+824,3960,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+825,530,Below average experience.,2,negative,negative,neutral,0.0
+826,1661,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+827,4288,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+828,1733,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+829,2418,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+830,3387,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+831,3325,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+832,387,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+833,2697,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+834,4055,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+835,782,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+836,3026,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+837,2308,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+838,3196,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+839,127,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+840,2353,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+841,3493,Amazing food and great service.,5,positive,positive,positive,0.836
+842,1091,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+843,475,Below average experience.,2,negative,negative,neutral,0.0
+844,4806,Could have been much better.,2,negative,negative,positive,0.4404
+845,518,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+846,4878,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+847,2838,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+848,1706,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+849,728,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+850,825,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+851,3342,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+852,3229,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+853,1939,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+854,2582,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+855,4128,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+856,4838,Could have been much better.,2,negative,negative,positive,0.4404
+857,1138,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+858,4609,Could have been much better.,2,negative,negative,positive,0.4404
+859,3417,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+860,3293,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+861,1414,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+862,603,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+863,4580,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+864,4984,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+865,3727,Amazing food and great service.,5,positive,positive,positive,0.836
+866,3471,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+867,495,Amazing food and great service.,5,positive,positive,positive,0.836
+868,2101,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+869,3916,Amazing food and great service.,5,positive,positive,positive,0.836
+870,2682,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+871,2300,Could have been much better.,2,negative,negative,positive,0.4404
+872,24,Could have been much better.,2,negative,negative,positive,0.4404
+873,1075,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+874,1121,Amazing food and great service.,5,positive,positive,positive,0.836
+875,2820,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+876,1995,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+877,3362,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+878,2776,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+879,4079,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+880,2597,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+881,3283,Amazing food and great service.,5,positive,positive,positive,0.836
+882,3316,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+883,4897,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+884,1521,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+885,2783,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+886,2565,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+887,3414,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+888,1184,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+889,3084,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+890,2424,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+891,3734,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+892,2166,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+893,383,Could have been much better.,2,negative,negative,positive,0.4404
+894,1053,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+895,2024,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+896,2707,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+897,535,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+898,72,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+899,4561,Could have been much better.,2,negative,negative,positive,0.4404
+900,1753,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+901,4083,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+902,2410,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+903,2877,Amazing food and great service.,5,positive,positive,positive,0.836
+904,2475,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+905,605,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+906,1435,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+907,4551,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+908,3873,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+909,2719,Amazing food and great service.,5,positive,positive,positive,0.836
+910,2072,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+911,1126,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+912,4398,Amazing food and great service.,5,positive,positive,positive,0.836
+913,3899,Below average experience.,2,negative,negative,neutral,0.0
+914,2999,Below average experience.,2,negative,negative,neutral,0.0
+915,2176,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+916,3682,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+917,3063,Amazing food and great service.,5,positive,positive,positive,0.836
+918,4078,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+919,3021,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+920,342,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+921,1383,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+922,315,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+923,129,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+924,2668,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+925,3322,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+926,3976,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+927,619,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+928,1166,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+929,4301,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+930,226,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+931,596,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+932,9,Amazing food and great service.,5,positive,positive,positive,0.836
+933,1789,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+934,1523,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+935,4299,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+936,2256,Amazing food and great service.,5,positive,positive,positive,0.836
+937,544,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+938,1401,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+939,1112,Amazing food and great service.,5,positive,positive,positive,0.836
+940,671,Could have been much better.,2,negative,negative,positive,0.4404
+941,4752,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+942,4220,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+943,4632,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+944,3206,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+945,3690,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+946,319,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+947,742,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+948,861,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+949,327,Amazing food and great service.,5,positive,positive,positive,0.836
+950,1926,Below average experience.,2,negative,negative,neutral,0.0
+951,4478,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+952,330,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+953,2612,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+954,3818,Amazing food and great service.,5,positive,positive,positive,0.836
+955,4066,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+956,3658,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+957,1397,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+958,1678,Could have been much better.,2,negative,negative,positive,0.4404
+959,3406,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+960,3969,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+961,4727,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+962,1885,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+963,850,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+964,4178,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+965,2847,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+966,1201,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+967,4584,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+968,3016,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+969,3231,Amazing food and great service.,5,positive,positive,positive,0.836
+970,1304,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+971,3675,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+972,3374,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+973,3008,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+974,197,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+975,1,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+976,2098,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+977,500,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+978,4820,Amazing food and great service.,5,positive,positive,positive,0.836
+979,2364,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+980,3908,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+981,4125,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+982,4666,Amazing food and great service.,5,positive,positive,positive,0.836
+983,4034,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+984,1510,Below average experience.,2,negative,negative,neutral,0.0
+985,3105,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+986,2862,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+987,3477,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+988,3364,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+989,3952,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+990,1241,Amazing food and great service.,5,positive,positive,positive,0.836
+991,643,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+992,3088,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+993,4021,Below average experience.,2,negative,negative,neutral,0.0
+994,964,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+995,2841,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+996,3148,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+997,538,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+998,2920,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+999,360,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1000,3340,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1001,2128,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1002,1593,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1003,4600,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1004,204,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1005,506,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1006,1665,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1007,3403,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1008,999,Amazing food and great service.,5,positive,positive,positive,0.836
+1009,2958,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1010,3455,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1011,4377,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1012,3228,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1013,4186,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1014,490,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1015,2822,Amazing food and great service.,5,positive,positive,positive,0.836
+1016,450,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1017,634,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1018,1840,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1019,4411,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1020,2757,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1021,1056,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1022,1648,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1023,1971,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1024,4596,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1025,1103,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1026,511,Amazing food and great service.,5,positive,positive,positive,0.836
+1027,3688,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1028,531,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1029,4096,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1030,2873,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1031,91,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1032,3700,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1033,1522,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1034,2804,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1035,2748,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1036,402,Below average experience.,2,negative,negative,neutral,0.0
+1037,872,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1038,1893,Amazing food and great service.,5,positive,positive,positive,0.836
+1039,2122,Could have been much better.,2,negative,negative,positive,0.4404
+1040,2277,Amazing food and great service.,5,positive,positive,positive,0.836
+1041,2102,Amazing food and great service.,5,positive,positive,positive,0.836
+1042,1714,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1043,1432,Amazing food and great service.,5,positive,positive,positive,0.836
+1044,2965,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1045,658,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1046,4156,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1047,3468,Amazing food and great service.,5,positive,positive,positive,0.836
+1048,3915,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1049,4180,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1050,3354,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1051,1293,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1052,160,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1053,2736,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1054,1480,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1055,3825,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1056,2073,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+1057,921,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1058,1111,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1059,331,Could have been much better.,2,negative,negative,positive,0.4404
+1060,1850,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1061,2205,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1062,1590,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1063,4073,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1064,4573,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1065,3736,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1066,3175,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1067,1062,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1068,2109,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1069,268,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1070,2022,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1071,3570,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1072,1263,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1073,4265,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1074,2537,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1075,4550,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1076,30,Amazing food and great service.,5,positive,positive,positive,0.836
+1077,4074,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1078,282,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1079,1470,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1080,1545,Could have been much better.,2,negative,negative,positive,0.4404
+1081,2245,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1082,4989,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1083,771,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1084,4904,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1085,3277,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1086,1577,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1087,4956,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1088,3439,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1089,548,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1090,954,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+1091,4233,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1092,2303,Could have been much better.,2,negative,negative,positive,0.4404
+1093,541,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1094,512,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1095,1207,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1096,545,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1097,3881,Amazing food and great service.,5,positive,positive,positive,0.836
+1098,1291,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1099,1940,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1100,1554,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1101,2972,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1102,3984,Amazing food and great service.,5,positive,positive,positive,0.836
+1103,2676,Could have been much better.,2,negative,negative,positive,0.4404
+1104,4159,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1105,1649,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1106,18,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1107,1492,Amazing food and great service.,5,positive,positive,positive,0.836
+1108,1395,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1109,891,Could have been much better.,2,negative,negative,positive,0.4404
+1110,4036,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1111,719,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1112,2718,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1113,3787,Amazing food and great service.,5,positive,positive,positive,0.836
+1114,2306,Could have been much better.,2,negative,negative,positive,0.4404
+1115,3343,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1116,2107,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1117,2226,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1118,669,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1119,3480,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1120,3645,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1121,2084,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1122,2126,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1123,959,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1124,389,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1125,1877,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1126,4346,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1127,11,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1128,2332,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1129,555,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1130,745,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1131,2604,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1132,172,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1133,2169,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1134,3389,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1135,207,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1136,3966,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1137,4774,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1138,3006,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1139,4349,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1140,3353,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1141,193,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1142,2206,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1143,3150,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1144,3572,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1145,4667,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1146,4927,Amazing food and great service.,5,positive,positive,positive,0.836
+1147,2534,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1148,2851,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1149,1174,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1150,3431,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1151,2578,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1152,1026,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1153,2203,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1154,1519,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1155,4546,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1156,2141,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1157,3531,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1158,373,Amazing food and great service.,5,positive,positive,positive,0.836
+1159,3190,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1160,2644,Amazing food and great service.,5,positive,positive,positive,0.836
+1161,1380,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1162,4139,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1163,3989,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1164,3819,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1165,4436,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1166,4513,Amazing food and great service.,5,positive,positive,positive,0.836
+1167,485,Amazing food and great service.,5,positive,positive,positive,0.836
+1168,104,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1169,3182,Amazing food and great service.,5,positive,positive,positive,0.836
+1170,1857,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1171,693,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1172,1012,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1173,3127,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1174,3146,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1175,868,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1176,3200,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1177,3813,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1178,4965,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1179,4564,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1180,2321,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1181,2772,Amazing food and great service.,5,positive,positive,positive,0.836
+1182,363,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1183,1265,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1184,2399,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+1185,911,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+1186,2154,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1187,1535,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1188,661,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1189,2742,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1190,4745,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1191,2409,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1192,676,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1193,353,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1194,1797,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1195,1025,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1196,901,Amazing food and great service.,5,positive,positive,positive,0.836
+1197,3235,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1198,748,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1199,1849,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+1200,365,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1201,853,Amazing food and great service.,5,positive,positive,positive,0.836
+1202,4858,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1203,1363,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1204,3865,Amazing food and great service.,5,positive,positive,positive,0.836
+1205,2038,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1206,2036,Below average experience.,2,negative,negative,neutral,0.0
+1207,2797,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1208,2106,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1209,126,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1210,3962,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+1211,3722,Could have been much better.,2,negative,negative,positive,0.4404
+1212,27,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1213,2160,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1214,2465,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1215,3082,Amazing food and great service.,5,positive,positive,positive,0.836
+1216,4482,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1217,3080,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1218,1654,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1219,4657,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1220,1512,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1221,1879,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1222,3348,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1223,3811,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1224,1516,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1225,3629,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1226,4137,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1227,2368,Amazing food and great service.,5,positive,positive,positive,0.836
+1228,4711,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1229,2326,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1230,4414,Amazing food and great service.,5,positive,positive,positive,0.836
+1231,797,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1232,2995,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1233,116,Amazing food and great service.,5,positive,positive,positive,0.836
+1234,4860,Amazing food and great service.,5,positive,positive,positive,0.836
+1235,1806,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1236,1551,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1237,2474,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1238,3691,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1239,4487,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1240,664,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1241,3300,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1242,3112,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1243,1238,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1244,4447,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1245,1196,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1246,4285,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1247,540,Could have been much better.,2,negative,negative,positive,0.4404
+1248,367,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1249,4728,Amazing food and great service.,5,positive,positive,positive,0.836
+1250,3706,Below average experience.,2,negative,negative,neutral,0.0
+1251,4960,Amazing food and great service.,5,positive,positive,positive,0.836
+1252,2426,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1253,1515,Amazing food and great service.,5,positive,positive,positive,0.836
+1254,4524,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1255,3492,Below average experience.,2,negative,negative,neutral,0.0
+1256,4893,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1257,2632,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1258,340,Amazing food and great service.,5,positive,positive,positive,0.836
+1259,2779,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1260,843,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1261,1567,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1262,4347,Could have been much better.,2,negative,negative,positive,0.4404
+1263,494,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1264,1680,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1265,2705,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1266,4592,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1267,2575,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1268,991,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1269,1689,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1270,4001,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1271,3217,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1272,1015,Could have been much better.,2,negative,negative,positive,0.4404
+1273,4918,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1274,4988,Amazing food and great service.,5,positive,positive,positive,0.836
+1275,3444,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1276,1177,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1277,4153,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1278,1459,Below average experience.,2,negative,negative,neutral,0.0
+1279,780,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1280,2854,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1281,2675,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1282,3226,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1283,3785,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1284,4456,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1285,3993,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1286,4689,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1287,4448,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1288,2134,Amazing food and great service.,5,positive,positive,positive,0.836
+1289,523,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1290,1020,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1291,2196,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1292,3272,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1293,3939,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1294,2236,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1295,3776,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1296,741,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1297,929,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1298,1804,Could have been much better.,2,negative,negative,positive,0.4404
+1299,4653,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1300,4181,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1301,3681,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1302,233,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1303,2912,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1304,2895,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1305,3395,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1306,4427,Could have been much better.,2,negative,negative,positive,0.4404
+1307,4072,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1308,4075,Amazing food and great service.,5,positive,positive,positive,0.836
+1309,965,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1310,3248,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1311,2347,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1312,4460,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1313,990,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1314,620,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1315,144,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1316,4831,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1317,4235,Could have been much better.,2,negative,negative,positive,0.4404
+1318,2012,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1319,2407,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1320,2202,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1321,2702,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1322,4969,Amazing food and great service.,5,positive,positive,positive,0.836
+1323,3928,Amazing food and great service.,5,positive,positive,positive,0.836
+1324,1211,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1325,4183,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1326,613,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1327,3664,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1328,3927,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1329,4061,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1330,3615,Below average experience.,2,negative,negative,neutral,0.0
+1331,1946,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1332,4731,Amazing food and great service.,5,positive,positive,positive,0.836
+1333,2294,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1334,4735,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1335,4709,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1336,4154,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1337,790,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1338,1564,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1339,2054,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1340,2183,Below average experience.,2,negative,negative,neutral,0.0
+1341,2949,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1342,53,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1343,1655,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1344,4785,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1345,1672,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1346,2864,Below average experience.,2,negative,negative,neutral,0.0
+1347,3115,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1348,4941,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1349,55,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1350,2942,Amazing food and great service.,5,positive,positive,positive,0.836
+1351,306,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1352,1272,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1353,2763,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1354,4491,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1355,3002,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1356,1109,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1357,4412,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1358,4415,Below average experience.,2,negative,negative,neutral,0.0
+1359,2208,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1360,1004,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1361,4417,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1362,4463,Could have been much better.,2,negative,negative,positive,0.4404
+1363,1525,Could have been much better.,2,negative,negative,positive,0.4404
+1364,4474,Amazing food and great service.,5,positive,positive,positive,0.836
+1365,1339,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1366,286,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1367,2441,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1368,2692,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1369,3887,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1370,86,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1371,1449,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1372,3529,Amazing food and great service.,5,positive,positive,positive,0.836
+1373,4816,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1374,1788,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1375,4161,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1376,4889,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1377,4396,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1378,1829,Amazing food and great service.,5,positive,positive,positive,0.836
+1379,73,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1380,4721,Amazing food and great service.,5,positive,positive,positive,0.836
+1381,875,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1382,1294,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1383,3141,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1384,3245,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1385,3170,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1386,2738,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1387,4997,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1388,3809,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1389,2167,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1390,4116,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1391,2717,Could have been much better.,2,negative,negative,positive,0.4404
+1392,1329,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1393,4680,Below average experience.,2,negative,negative,neutral,0.0
+1394,2792,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1395,4469,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1396,1853,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1397,3483,Below average experience.,2,negative,negative,neutral,0.0
+1398,2419,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1399,2275,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1400,3500,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1401,4213,Amazing food and great service.,5,positive,positive,positive,0.836
+1402,2605,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1403,2666,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1404,2667,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1405,2721,Amazing food and great service.,5,positive,positive,positive,0.836
+1406,2002,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1407,1640,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1408,4835,Amazing food and great service.,5,positive,positive,positive,0.836
+1409,4736,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1410,698,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1411,1014,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1412,1619,Amazing food and great service.,5,positive,positive,positive,0.836
+1413,1224,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1414,751,Amazing food and great service.,5,positive,positive,positive,0.836
+1415,521,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1416,256,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1417,3286,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1418,3465,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1419,2004,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1420,3,Could have been much better.,2,negative,negative,positive,0.4404
+1421,1001,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1422,3849,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1423,594,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1424,2824,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1425,2511,Amazing food and great service.,5,positive,positive,positive,0.836
+1426,1580,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1427,474,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1428,660,Amazing food and great service.,5,positive,positive,positive,0.836
+1429,2946,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1430,483,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1431,1210,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1432,4971,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1433,430,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1434,3472,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1435,833,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1436,2687,Could have been much better.,2,negative,negative,positive,0.4404
+1437,2735,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1438,3860,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1439,2661,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1440,4935,Amazing food and great service.,5,positive,positive,positive,0.836
+1441,3053,Amazing food and great service.,5,positive,positive,positive,0.836
+1442,2956,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1443,441,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1444,723,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1445,949,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1446,2048,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1447,1273,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1448,547,Amazing food and great service.,5,positive,positive,positive,0.836
+1449,1526,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1450,1937,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1451,2503,Amazing food and great service.,5,positive,positive,positive,0.836
+1452,4846,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1453,20,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1454,4569,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1455,1244,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1456,2443,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1457,4394,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1458,1670,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1459,3725,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1460,4225,Amazing food and great service.,5,positive,positive,positive,0.836
+1461,4964,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1462,639,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1463,4465,Amazing food and great service.,5,positive,positive,positive,0.836
+1464,325,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1465,1677,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1466,3202,Amazing food and great service.,5,positive,positive,positive,0.836
+1467,2049,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1468,3945,Below average experience.,2,negative,negative,neutral,0.0
+1469,2659,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1470,1924,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1471,334,Below average experience.,2,negative,negative,neutral,0.0
+1472,1087,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1473,4701,Below average experience.,2,negative,negative,neutral,0.0
+1474,2020,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1475,3312,Amazing food and great service.,5,positive,positive,positive,0.836
+1476,3660,Could have been much better.,2,negative,negative,positive,0.4404
+1477,1076,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1478,2536,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1479,4421,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1480,1693,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1481,1597,Below average experience.,2,negative,negative,neutral,0.0
+1482,651,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1483,3636,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1484,3672,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1485,1032,Could have been much better.,2,negative,negative,positive,0.4404
+1486,1251,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1487,1420,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1488,1198,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1489,3692,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1490,242,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1491,1101,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1492,584,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1493,3516,Amazing food and great service.,5,positive,positive,positive,0.836
+1494,3863,Below average experience.,2,negative,negative,neutral,0.0
+1495,1901,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1496,4664,Amazing food and great service.,5,positive,positive,positive,0.836
+1497,4490,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1498,1232,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1499,1779,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1500,3064,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1501,2929,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+1502,3291,Amazing food and great service.,5,positive,positive,positive,0.836
+1503,4587,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1504,4210,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1505,1906,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1506,806,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1507,2099,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1508,3099,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1509,4949,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1510,3929,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1511,2606,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1512,1891,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1513,4583,Amazing food and great service.,5,positive,positive,positive,0.836
+1514,593,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1515,3301,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1516,3033,Could have been much better.,2,negative,negative,positive,0.4404
+1517,4200,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1518,4812,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1519,2669,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1520,4212,Amazing food and great service.,5,positive,positive,positive,0.836
+1521,1408,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1522,1821,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1523,487,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1524,3760,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1525,1479,Amazing food and great service.,5,positive,positive,positive,0.836
+1526,162,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1527,2594,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1528,3579,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1529,3514,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1530,176,Below average experience.,2,negative,negative,neutral,0.0
+1531,4400,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1532,2635,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1533,4980,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1534,3959,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1535,3102,Amazing food and great service.,5,positive,positive,positive,0.836
+1536,2801,Could have been much better.,2,negative,negative,positive,0.4404
+1537,3116,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1538,3772,Amazing food and great service.,5,positive,positive,positive,0.836
+1539,3921,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1540,2795,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1541,3757,Below average experience.,2,negative,negative,neutral,0.0
+1542,1235,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1543,106,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1544,3098,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1545,3801,Amazing food and great service.,5,positive,positive,positive,0.836
+1546,4281,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1547,4802,Amazing food and great service.,5,positive,positive,positive,0.836
+1548,839,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1549,3699,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1550,2653,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1551,3238,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1552,2621,Below average experience.,2,negative,negative,neutral,0.0
+1553,4940,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1554,2569,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1555,2015,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1556,4087,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1557,3355,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1558,4364,Below average experience.,2,negative,negative,neutral,0.0
+1559,4739,Amazing food and great service.,5,positive,positive,positive,0.836
+1560,711,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1561,1305,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1562,3187,Below average experience.,2,negative,negative,neutral,0.0
+1563,3751,Amazing food and great service.,5,positive,positive,positive,0.836
+1564,4140,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1565,157,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1566,2291,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1567,3999,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1568,1279,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1569,1392,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1570,4610,Below average experience.,2,negative,negative,neutral,0.0
+1571,3000,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1572,4167,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1573,2664,Amazing food and great service.,5,positive,positive,positive,0.836
+1574,3268,Amazing food and great service.,5,positive,positive,positive,0.836
+1575,3476,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1576,259,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1577,2811,Amazing food and great service.,5,positive,positive,positive,0.836
+1578,4670,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1579,3009,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1580,4586,Amazing food and great service.,5,positive,positive,positive,0.836
+1581,1203,Amazing food and great service.,5,positive,positive,positive,0.836
+1582,1410,Amazing food and great service.,5,positive,positive,positive,0.836
+1583,2385,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1584,3817,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1585,3894,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1586,4151,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1587,4102,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1588,1219,Below average experience.,2,negative,negative,neutral,0.0
+1589,2970,Amazing food and great service.,5,positive,positive,positive,0.836
+1590,4422,Amazing food and great service.,5,positive,positive,positive,0.836
+1591,1574,Amazing food and great service.,5,positive,positive,positive,0.836
+1592,2450,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1593,1550,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1594,792,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1595,3380,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1596,4222,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1597,2809,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1598,303,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1599,1262,Below average experience.,2,negative,negative,neutral,0.0
+1600,4937,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1601,2237,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1602,33,Amazing food and great service.,5,positive,positive,positive,0.836
+1603,3074,Could have been much better.,2,negative,negative,positive,0.4404
+1604,3459,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1605,3201,Amazing food and great service.,5,positive,positive,positive,0.836
+1606,1701,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1607,2021,Amazing food and great service.,5,positive,positive,positive,0.836
+1608,1781,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1609,47,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1610,3676,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1611,3961,Amazing food and great service.,5,positive,positive,positive,0.836
+1612,2374,Amazing food and great service.,5,positive,positive,positive,0.836
+1613,58,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1614,4991,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1615,3646,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1616,4357,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1617,4946,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+1618,2871,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1619,1065,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1620,1938,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1621,37,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1622,765,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1623,4244,Amazing food and great service.,5,positive,positive,positive,0.836
+1624,4247,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1625,855,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1626,2150,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1627,2225,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1628,3957,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1629,2378,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1630,2228,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1631,416,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1632,958,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1633,902,Amazing food and great service.,5,positive,positive,positive,0.836
+1634,3696,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1635,2110,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1636,1947,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1637,1243,Below average experience.,2,negative,negative,neutral,0.0
+1638,1268,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1639,4908,Amazing food and great service.,5,positive,positive,positive,0.836
+1640,82,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1641,1105,Could have been much better.,2,negative,negative,positive,0.4404
+1642,2027,Amazing food and great service.,5,positive,positive,positive,0.836
+1643,4143,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1644,1030,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1645,2227,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1646,2386,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1647,4369,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1648,4387,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1649,3142,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1650,1605,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1651,4654,Amazing food and great service.,5,positive,positive,positive,0.836
+1652,2136,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1653,1548,Amazing food and great service.,5,positive,positive,positive,0.836
+1654,2191,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1655,4228,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1656,4792,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1657,3519,Amazing food and great service.,5,positive,positive,positive,0.836
+1658,3995,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1659,3593,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1660,1957,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1661,3985,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1662,1227,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1663,4405,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1664,1743,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1665,1282,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1666,2678,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1667,3943,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1668,3252,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1669,890,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1670,124,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1671,4434,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1672,2233,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1673,4160,Amazing food and great service.,5,positive,positive,positive,0.836
+1674,1565,Amazing food and great service.,5,positive,positive,positive,0.836
+1675,2415,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1676,2857,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1677,4594,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1678,1900,Amazing food and great service.,5,positive,positive,positive,0.836
+1679,265,Amazing food and great service.,5,positive,positive,positive,0.836
+1680,1332,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1681,576,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1682,8,Amazing food and great service.,5,positive,positive,positive,0.836
+1683,1609,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1684,1415,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1685,1266,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1686,1555,Amazing food and great service.,5,positive,positive,positive,0.836
+1687,814,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1688,324,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1689,300,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1690,3363,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1691,787,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1692,852,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+1693,3273,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1694,1958,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1695,2240,Could have been much better.,2,negative,negative,positive,0.4404
+1696,3756,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1697,1904,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1698,4760,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1699,2484,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1700,2988,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1701,3383,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1702,2823,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1703,2833,Amazing food and great service.,5,positive,positive,positive,0.836
+1704,1835,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1705,3484,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1706,3438,Could have been much better.,2,negative,negative,positive,0.4404
+1707,3926,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1708,3795,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1709,4451,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1710,574,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1711,767,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1712,3619,Amazing food and great service.,5,positive,positive,positive,0.836
+1713,3147,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1714,1427,Could have been much better.,2,negative,negative,positive,0.4404
+1715,4477,Amazing food and great service.,5,positive,positive,positive,0.836
+1716,3443,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1717,2430,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1718,2056,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1719,2588,Amazing food and great service.,5,positive,positive,positive,0.836
+1720,2986,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1721,132,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1722,2414,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1723,4882,Amazing food and great service.,5,positive,positive,positive,0.836
+1724,2556,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1725,1336,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1726,3400,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1727,2888,Amazing food and great service.,5,positive,positive,positive,0.836
+1728,74,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1729,4264,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1730,2204,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1731,2889,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1732,4324,Amazing food and great service.,5,positive,positive,positive,0.836
+1733,3585,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1734,2940,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1735,2129,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1736,186,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1737,4828,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1738,1679,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1739,870,Amazing food and great service.,5,positive,positive,positive,0.836
+1740,4841,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1741,1723,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1742,2053,Amazing food and great service.,5,positive,positive,positive,0.836
+1743,2402,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1744,1021,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1745,1318,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1746,23,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1747,1786,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1748,2498,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1749,4929,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1750,509,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1751,4401,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1752,746,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1753,2283,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1754,4245,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1755,1167,Amazing food and great service.,5,positive,positive,positive,0.836
+1756,45,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1757,2310,Amazing food and great service.,5,positive,positive,positive,0.836
+1758,1245,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1759,1622,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1760,3841,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1761,374,Amazing food and great service.,5,positive,positive,positive,0.836
+1762,1681,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1763,2003,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1764,4662,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1765,572,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1766,971,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1767,2379,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1768,2982,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1769,1856,Amazing food and great service.,5,positive,positive,positive,0.836
+1770,3901,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1771,600,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1772,2867,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1773,258,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1774,3919,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1775,4035,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1776,1898,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1777,1448,Amazing food and great service.,5,positive,positive,positive,0.836
+1778,1644,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1779,1831,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1780,4113,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1781,273,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1782,1159,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1783,1154,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1784,1712,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1785,3922,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1786,4204,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1787,318,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1788,4420,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1789,2641,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1790,4702,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1791,2059,Amazing food and great service.,5,positive,positive,positive,0.836
+1792,31,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1793,4691,Amazing food and great service.,5,positive,positive,positive,0.836
+1794,3435,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1795,3366,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1796,3848,Amazing food and great service.,5,positive,positive,positive,0.836
+1797,1498,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1798,4485,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1799,1603,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1800,4488,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1801,2693,Amazing food and great service.,5,positive,positive,positive,0.836
+1802,608,Could have been much better.,2,negative,negative,positive,0.4404
+1803,4184,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1804,4957,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1805,3266,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1806,675,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1807,3597,Amazing food and great service.,5,positive,positive,positive,0.836
+1808,4185,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1809,3656,Amazing food and great service.,5,positive,positive,positive,0.836
+1810,429,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1811,3390,Neither great nor bad.,3,neutral,neutral,negative,-0.6871
+1812,1600,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1813,2922,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1814,4313,Amazing food and great service.,5,positive,positive,positive,0.836
+1815,549,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1816,2517,"Food was okay, but there is room for improvement.",3,neutral,neutral,positive,0.6652
+1817,4881,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1818,3462,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1819,2290,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1820,1646,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1821,2509,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1822,1151,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1823,1599,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1824,649,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1825,979,Amazing food and great service.,5,positive,positive,positive,0.836
+1826,1751,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1827,1418,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1828,1671,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1829,4056,Could have been much better.,2,negative,negative,positive,0.4404
+1830,4621,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1831,2855,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1832,4315,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1833,3839,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1834,3496,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1835,1405,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1836,3103,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1837,2464,Amazing food and great service.,5,positive,positive,positive,0.836
+1838,1337,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1839,3025,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1840,2263,Could have been much better.,2,negative,negative,positive,0.4404
+1841,4029,Very late delivery and disappointing food.,1,negative,positive,negative,-0.4939
+1842,4784,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1843,1801,Amazing food and great service.,5,positive,positive,positive,0.836
+1844,3925,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1845,1730,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1846,2412,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1847,3161,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1848,4162,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1849,4566,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1850,4333,The order arrived cold and incomplete.,1,negative,negative,neutral,0.0
+1851,224,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1852,3555,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1853,1518,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1854,4099,Below average experience.,2,negative,negative,neutral,0.0
+1855,2318,Good food and a pleasant experience.,4,positive,positive,positive,0.7351
+1856,1718,Could have been much better.,2,negative,negative,positive,0.4404
+1857,624,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1858,1713,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1859,2560,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
+1860,1190,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1861,1421,Terrible experience. The food was very poor.,1,negative,negative,negative,-0.7574
+1862,3241,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1863,3357,Could have been much better.,2,negative,negative,positive,0.4404
+1864,4606,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1865,1676,Delivery was late and food quality was poor.,2,negative,negative,negative,-0.4767
+1866,2111,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1867,4267,Delivery was good and the food was tasty.,4,positive,positive,positive,0.4404
+1868,3379,Satisfied with the overall service.,4,positive,positive,positive,0.4215
+1869,248,Excellent experience. Will order again!,5,positive,negative,positive,0.6114
+1870,378,Fast delivery and delicious food.,5,positive,positive,positive,0.5719
+1871,4114,"Average experience, nothing special.",3,neutral,negative,negative,-0.3089
