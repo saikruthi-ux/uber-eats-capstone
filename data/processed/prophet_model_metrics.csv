@@ -1,0 +1,2 @@
+model,train_observations,test_observations,mae,rmse,mape_nonzero_actual_pct,test_hours_with_nonzero_actual,test_hours_with_zero_actual
+Prophet,6190,336,0.6708825078834678,0.8192036737498535,29.707153186139195,172,164

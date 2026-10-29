@@ -1,0 +1,2 @@
+series,adf_statistic,p_value,used_lags,observations,critical_value_1_percent,critical_value_5_percent,critical_value_10_percent,stationary_at_5_percent
+Original hourly demand,-80.51788642101806,0.0,0,6525,-3.43135258611996,-2.8619830574451086,-2.5670058360916603,True

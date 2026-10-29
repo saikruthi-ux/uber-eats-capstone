@@ -1,0 +1,2 @@
+model,train_observations,test_observations,mae,rmse,mape_nonzero_actual_pct,test_hours_with_nonzero_actual,test_hours_with_zero_actual
+"ARIMA(1, 0, 1)",6190,336,0.6721304863180054,0.8090752667474073,34.69091175122255,172,164
