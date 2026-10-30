@@ -1,0 +1,9 @@
+artifact,file,status,rows,columns
+segmentation_metrics,segmentation_metrics.csv,LOADED,2,9
+sentiment_models,sentiment_model_comparison.csv,LOADED,2,5
+regression_models,regression_model_comparison.csv,LOADED,5,13
+delivery_importance,regression_feature_importance.csv,LOADED,11,3
+customers,customer_cluster_profiles.csv,LOADED,6,9
+restaurants,restaurant_cluster_profiles.csv,LOADED,7,9
+complaints,negative_complaint_themes.csv,LOADED,20,2
+forecasts,model_comparison.csv,LOADED,2,8

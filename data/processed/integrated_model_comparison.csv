@@ -1,0 +1,10 @@
+task,model,primary_metric,primary_score,additional_metric,additional_score
+Sentiment classification,TF-IDF + Multinomial Naive Bayes,weighted_f1,0.4784887912883934,accuracy,0.43594009983361065
+Sentiment classification,VADER,weighted_f1,0.7996853493205228,accuracy,0.848585690515807
+Delivery-time prediction,Ridge Regression,test_rmse_minutes,5.261875505919676,test_mae_minutes,4.172379299479358
+Delivery-time prediction,Linear Regression,test_rmse_minutes,5.2595315840779,test_mae_minutes,4.1712382513106485
+Delivery-time prediction,Lasso Regression,test_rmse_minutes,5.350645177155039,test_mae_minutes,4.217375443064765
+Delivery-time prediction,Random Forest,test_rmse_minutes,5.781170843650981,test_mae_minutes,4.564868171453676
+Delivery-time prediction,Dummy Baseline,test_rmse_minutes,14.406209170700768,test_mae_minutes,11.84354872268056
+Hourly demand forecasting,Prophet,test_mae_orders_per_hour,0.6708825078834678,test_rmse_orders_per_hour,0.8192036737498535
+Hourly demand forecasting,"ARIMA(1, 0, 1)",test_mae_orders_per_hour,0.6721304863180054,test_rmse_orders_per_hour,0.8090752667474073
